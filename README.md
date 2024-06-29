@@ -1,3 +1,8 @@
-# Coding evaluation projects
+# Coding Evaluation Project (Iteration for Coding Challenge)
 
-These projects are intended to help AA interviewers to evaluate the coding skills of job candidates. The projects are all identical in nature, but implemented in different languages.
+This project represents my iteration of a coding challenge, implemented in Java.
+
+## Features
+
+- **Hire Method**: Implements the `hire` method to add employees to the system.
+- **Unique Identifiers**: Provides a method for generating unique identifiers for employees.
