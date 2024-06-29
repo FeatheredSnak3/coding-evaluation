@@ -1,4 +1,4 @@
-# Coding Evaluation Project (Iteration for Coding Challenge)
+# Coding Evaluation Project
 
 This project represents my iteration of a coding challenge, implemented in Java.
 
