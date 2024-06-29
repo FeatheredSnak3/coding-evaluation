@@ -23,8 +23,7 @@ public abstract class Organization {
      * @param title
      * @return the newly filled position or empty if no position has that title
      */
-    
-     //START of my code
+
      private AtomicInteger nextEmployeeId = new AtomicInteger(1); //Initialize unique ID at 1
 
     public Optional<Position> hire(Name person, String title) {
@@ -55,8 +54,7 @@ public abstract class Organization {
 
     private int createUniqueId() {
         return nextEmployeeId.getAndIncrement();
-    }//END of my code
-
+    }
 
     @Override
     public String toString() {
